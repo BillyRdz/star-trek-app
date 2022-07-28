@@ -4,7 +4,7 @@ This fun project using a front end, an API I built set up to communicate with Mo
 
 **Link to project:** https://billyrdz.github.io/star-trek-app/
 
-![alt tag](https://billyrdz.com/wp-content/uploads/2022/05/mortgify.gif)
+![alt tag](https://github.com/BillyRdz/star-trek-app/blob/main/star-trek-app.gif)
 
 ## How It's Made:
 
@@ -16,6 +16,11 @@ This fun project using a front end, an API I built set up to communicate with Mo
 - Node.js
 - Express.js
 - MongoDB
+
+## Optimizations
+
+After building the API and creating local JSON data to prove out my MVP, the data now is hosted in a MongoDB collection.
+This meant that I had to refactor my code to work with the database as well as implement CRUD functionality.
 
 ## Lessons Learned:
 
