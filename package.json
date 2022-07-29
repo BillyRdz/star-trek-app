@@ -1,0 +1,22 @@
+{
+  "name": "star-trek-app",
+  "version": "1.0.0",
+  "description": "This fun project using a front end, an API I built set up to communicate with MongoDB.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BillyRdz/star-trek-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BillyRdz/star-trek-app/issues"
+  },
+  "homepage": "https://github.com/BillyRdz/star-trek-app#readme",
+  "dependencies": {
+    "mongodb": "^4.8.1"
+  }
+}

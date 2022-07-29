@@ -2,6 +2,8 @@
 
 This fun project using a front end, an API I built set up to communicate with MongoDB.
 
+Check out the Backend Code here -> https://github.com/BillyRdz/star-trek-api/blob/main/server.js
+
 **Link to project:** https://billyrdz.github.io/star-trek-app/
 
 ![alt tag](https://github.com/BillyRdz/star-trek-app/blob/main/star-trek-app.gif)
